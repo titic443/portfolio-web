@@ -12,7 +12,9 @@ export default {
       primaryBase: "#cbd5e1",
       primaryAccent: "#7dd3fc",
       primaryBg: "#1e293b",
-      gray300: "#e2e8f0"
+      primaryGrey: "#e2e8f0",
+      primaryVeryAccent: "rgb(248 250 252)",
+      primarySubBg: "#1e313b61"
     },
     extend: {},
   },
