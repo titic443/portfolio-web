@@ -2,6 +2,7 @@ import Header from "../header"
 import Link from "../link"
 import Navbar from "../navbar"
 
+
 const LeftSection = () => {
     return (
         <div className="px-4">

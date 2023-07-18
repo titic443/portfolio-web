@@ -9,3 +9,17 @@
         @apply text-primaryBase;
     }
 }
+
+@keyframes append-animateion {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.new-arrow {
+    animation: append-animation 0.5s ease-out;
+}
+    
