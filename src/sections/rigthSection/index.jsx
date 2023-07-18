@@ -4,6 +4,7 @@ import { data as projectData} from "../../contents/project"
 import { data as articleData} from "../../contents/article"
 import Footer from "../Footer"
 import About from "../about"
+import Certificate from "../../components/Certificate"
 
 
 const RigthSection = () => {
@@ -12,7 +13,7 @@ const RigthSection = () => {
         <About />
         <ContentContainer title="Experience" data={experienceData}></ContentContainer>
         <ContentContainer title="Project" data={projectData}></ContentContainer>
-        <ContentContainer title="Article" data={articleData}></ContentContainer>
+        <Certificate title="Certificate" data={articleData}></Certificate>
         <Footer></Footer>
     </div>  
 

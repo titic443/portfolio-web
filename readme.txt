@@ -28,7 +28,7 @@ firebase.json
 .firebaserc
 {
   "projects": {
-    "default": "<YOUR_FIREBASE_ID>"
+    "default": "tsresume-48810"
   }
 }
 
