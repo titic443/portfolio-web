@@ -1,4 +1,4 @@
-import fileName from '../images/personal.cv.svg'
+import fileName from '../assets/cv.jpg'
 
 export const data = {
     name: 'Titi Changpoo',

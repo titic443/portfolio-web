@@ -1,4 +1,4 @@
 export const data = {
     title: "About",
-    description: "A back-end web developer is responsible for server-side web application logic and integration of the work front-end web developers do. Back-end developers usually write web services and APIs used by front-end developers and mobile application developers.",
+    description: "Seeking a position as an junior fullstack , to leverage organization and research skill to support frontend and backend operations.",
 }
