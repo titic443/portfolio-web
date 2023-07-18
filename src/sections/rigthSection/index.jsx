@@ -1,7 +1,7 @@
 import ContentContainer from "../../components/ContentContainer"
-import { data as experienceData} from "../../contents/experience.js"
-import { data as projectData} from "../../contents/experience.js"
-import { data as articleData} from "../../contents/experience.js"
+import { data as experienceData} from "../../contents/experience"
+import { data as projectData} from "../../contents/project"
+import { data as articleData} from "../../contents/article"
 import Footer from "../Footer"
 import About from "../about"
 
